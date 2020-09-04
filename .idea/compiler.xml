@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="b2c-order" />
+        <module name="b2c-user-service" />
+        <module name="b2c-item-interface" />
+        <module name="b2c-user-interface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="b2c-item-interface" target="1.5" />
+      <module name="b2c-order" target="1.5" />
+      <module name="b2c-user" target="1.5" />
+      <module name="b2c-user-interface" target="1.5" />
+      <module name="b2c-user-service" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

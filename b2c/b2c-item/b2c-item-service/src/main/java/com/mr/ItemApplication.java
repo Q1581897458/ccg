@@ -13,7 +13,11 @@ public class ItemApplication {
     public static void main(String[] args) {
         SpringApplication.run(ItemApplication.class, args);
 
-        System.out.println("aaaa");
+        System.out.println("一一i ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("一一i ");
+        System.out.println("一一i ");
+        System.out.println("一一i ");
 
     }
 }
