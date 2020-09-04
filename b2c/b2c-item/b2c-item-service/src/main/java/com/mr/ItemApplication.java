@@ -15,12 +15,23 @@ public class ItemApplication {
 
         System.out.println("一一i ");
         System.out.println("嘻嘻嘻 ");
-        System.out.println("一一i ");
-        System.out.println("一一i ");
-        System.out.println("一一i ");
-        System.out.println("一一i ");
-        System.out.println("一一i ");
-        System.out.println("一一i ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+        System.out.println("嘻嘻嘻 ");
+
 
     }
 }
