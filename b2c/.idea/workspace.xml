@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e099b71-c477-46b6-999c-0027b5677fd4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-registry/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-api-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-item/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-item/b2c-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-item/b2c-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-common/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-upload/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-search/target/" />
+    <ignored path="$PROJECT_DIR$/thymeleaf-demo/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-goods-page/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-user/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-user/b2c-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-user/b2c-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-auth/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-auth/b2c-auth-common/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-auth/b2c-auth-servce/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-cart/target/" />
+    <ignored path="$PROJECT_DIR$/b2c-order/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="b2c" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b2c-api-gateway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b2c-api-gateway/src/main/java/com/mr/ApiGatewayApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/web/PayController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="89" column="7" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/config/ApliPayConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StringUtils</find>
+      <find>StringUtil</find>
+      <find>springframework</find>
+      <find>spring-boot-starter-web</find>
+      <find>GoodsRepository</find>
+      <find>buildGoodsBySpu</find>
+      <find>Apple iPhone 6s</find>
+      <find>颜色</find>
+      <find>news</find>
+      <find>forEach</find>
+      <find>specGroups</find>
+      <find>specGroupList</find>
+      <find>4</find>
+      <find>400</find>
+      <find>computed</find>
+      <find>ownSpec</find>
+      <find>increment</find>
+      <find>++</find>
+      <find>addCart</find>
+      <find>cart</find>
+      <find>mysql</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/main/java/com/mr/util/ObjectUtils.java" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/main/java/com/mr/bo/Userlnfo.java" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/main/java/com/mr/util/JwtUtils.java" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/test/java/com/mr/test/JwtTokenTest.java" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/java/com/mr/com/mr/service/JwtService.java" />
+        <option value="$PROJECT_DIR$/b2c-user/b2c-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/java/com/mr/com/mr/config/JwtConfig.java" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/b2c-user/b2c-user-interface/src/main/java/com/mr/api/UserApi.java" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/java/com/mr/com/mr/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/java/com/mr/com/mr/service/AuthService.java" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/java/com/mr/com/mr/web/AuthController.java" />
+        <option value="$PROJECT_DIR$/b2c-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/b2c-api-gateway/src/main/java/com/mr/config/JwtConfig.java" />
+        <option value="$PROJECT_DIR$/b2c-api-gateway/src/main/java/com/mr/config/FilterProperties.java" />
+        <option value="$PROJECT_DIR$/b2c-api-gateway/src/main/java/com/mr/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/CartApplication.java" />
+        <option value="$PROJECT_DIR$/b2c-search/src/main/java/com/mr/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/b2c-goods-page/src/main/java/com/mr/service/ItemService.java" />
+        <option value="$PROJECT_DIR$/b2c-common/pom.xml" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-common/pom.xml" />
+        <option value="$PROJECT_DIR$/b2c-auth/b2c-auth-servce/pom.xml" />
+        <option value="$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/config/JwtConfig.java" />
+        <option value="$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/pojo/Cart.java" />
+        <option value="$PROJECT_DIR$/b2c-goods-page/src/test/java/com/mr/CreateGoodHtml.java" />
+        <option value="$PROJECT_DIR$/b2c-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/client/GoodClient.java" />
+        <option value="$PROJECT_DIR$/b2c-item/b2c-item-service/src/main/java/com/mr/mapper/SpuMapper.java" />
+        <option value="$PROJECT_DIR$/b2c-item/b2c-item-service/src/main/java/com/mr/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/b2c-item/b2c-item-service/src/main/java/com/mr/web/GoodsController.java" />
+        <option value="$PROJECT_DIR$/b2c-item/b2c-item-interface/src/main/java/com/mr/api/GoodsApi.java" />
+        <option value="$PROJECT_DIR$/b2c-goods-page/src/main/resources/templates/item.html" />
+        <option value="$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/service/CartService.java" />
+        <option value="$PROJECT_DIR$/b2c-api-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/b2c-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/b2c-cart/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/b2c-goods-page/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/b2c-item/b2c-item-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/b2c-search/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/b2c-order/src/main/java/com/mr/client/GoodsClient.java" />
+        <option value="$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/bo/CartBo.java" />
+        <option value="$PROJECT_DIR$/b2c-order/src/main/java/com/mr/client/AddressClient.java" />
+        <option value="$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/web/OrderController.java" />
+        <option value="$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/b2c-common/src/main/resources/appliction.yml" />
+        <option value="$PROJECT_DIR$/b2c-order/pom.xml" />
+        <option value="$PROJECT_DIR$/b2c-common/src/main/java/com/mr/common/utils/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/web/PayController.java" />
+        <option value="$PROJECT_DIR$/b2c-order/src/main/java/com/mr/config/ApliPayConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Program Files/Page/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Program Files\Page\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="b2c-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="b2c-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="b2c-order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="333" />
+    <option name="y" value="50" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-api-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-api-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mr" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mr" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mr" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="b2c" type="b2602c69:ProjectViewProjectNode" />
+              <item name="b2c" type="462c0819:PsiDirectoryNode" />
+              <item name="b2c-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Mr\boot\b2\b2c\b2c-order\src\main\resources\mapper" />
+      <recent name="D:\Mr\boot\b2\b2c\b2c-common\src\main\java\com\mr\common\utils" />
+      <recent name="D:\Mr\boot\b2\b2c\b2c-item\b2c-item-interface\src\main\java" />
+      <recent name="D:\Mr\boot\b2\b2c\b2c-item\b2c-item-service\src\main\resources" />
+      <recent name="D:\Mr\boot\b2\b2c" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.mr" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mr.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Mr\boot\b2\b2c\b2c-order\src\main\java\com\mr" />
+      <recent name="E:\Mr\boot\b2\b2c\b2c-order\src\main\java" />
+      <recent name="E:\Mr\boot\b2\b2c\b2c-goods-page\src\main\java\com\mr" />
+      <recent name="D:\Mr\boot\b2\b2c\b2c-common\src\main\java" />
+      <recent name="D:\Mr\boot\b2\b2c\b2c-item\b2c-item-service\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.28633094" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderApplication">
+    <configuration name="CreateGoodHtml.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="b2c-goods-page" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.mr" />
+      <option name="MAIN_CLASS_NAME" value="com.mr.CreateGoodHtml" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="b2c-search" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test" />
+      <option name="MAIN_CLASS_NAME" value="com.test.TestClient" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="b2c-api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-auth-servce" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.AuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.CartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodPageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-goods-page" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.GoodPageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.ItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="b2c-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="b2c-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mr.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.RegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.UploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="b2c-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mr.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestClient" />
+      <item itemvalue="JUnit.CreateGoodHtml.create" />
+      <item itemvalue="Spring Boot.ItemApplication" />
+      <item itemvalue="Spring Boot.UploadApplication" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.SearchApplication" />
+      <item itemvalue="Spring Boot.GoodPageApplication" />
+      <item itemvalue="Spring Boot.CartApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.RegistryApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="Spring Boot.OrderApplication" />
+        <item itemvalue="Spring Boot.RegistryApplication" />
+        <item itemvalue="JUnit.CreateGoodHtml.create" />
+        <item itemvalue="JUnit.TestClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e099b71-c477-46b6-999c-0027b5677fd4" name="Default Changelist" comment="" />
+      <created>1594795272224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594795272224</updated>
+      <workItem from="1594795275054" duration="429000" />
+      <workItem from="1594796097730" duration="2201000" />
+      <workItem from="1594798340530" duration="17215000" />
+      <workItem from="1594888724870" duration="382000" />
+      <workItem from="1594889241438" duration="205000" />
+      <workItem from="1594889466468" duration="10382000" />
+      <workItem from="1594903938878" duration="7929000" />
+      <workItem from="1594967609516" duration="7835000" />
+      <workItem from="1595077874458" duration="6435000" />
+      <workItem from="1595137422733" duration="9131000" />
+      <workItem from="1595250340628" duration="4535000" />
+      <workItem from="1595383273565" duration="14199000" />
+      <workItem from="1595416804662" duration="16000" />
+      <workItem from="1595416830152" duration="7439000" />
+      <workItem from="1595424995943" duration="28950000" />
+      <workItem from="1595640726206" duration="1302000" />
+      <workItem from="1595813206583" duration="13439000" />
+      <workItem from="1595901137025" duration="13131000" />
+      <workItem from="1595987434448" duration="15065000" />
+      <workItem from="1596073051298" duration="740000" />
+      <workItem from="1596091487966" duration="14611000" />
+      <workItem from="1596116642368" duration="83000" />
+      <workItem from="1596159003539" duration="26000" />
+      <workItem from="1596159034153" duration="8066000" />
+      <workItem from="1596181626247" duration="632000" />
+      <workItem from="1596194669975" duration="596000" />
+      <workItem from="1596759919758" duration="8948000" />
+      <workItem from="1596786235297" duration="22831000" />
+      <workItem from="1597023113417" duration="30481000" />
+      <workItem from="1597195877931" duration="1656000" />
+      <workItem from="1597212835028" duration="13517000" />
+      <workItem from="1597279028605" duration="8063000" />
+      <workItem from="1597311490045" duration="775000" />
+      <workItem from="1597316521060" duration="7839000" />
+      <workItem from="1597393140049" duration="2643000" />
+      <workItem from="1597633092384" duration="940000" />
+      <workItem from="1597635647310" duration="1758000" />
+      <workItem from="1597665767426" duration="22794000" />
+      <workItem from="1597752192336" duration="9401000" />
+      <workItem from="1597807480887" duration="1860000" />
+      <workItem from="1598060101606" duration="1205000" />
+      <workItem from="1598232756015" duration="6961000" />
+      <workItem from="1598249114567" duration="4080000" />
+      <workItem from="1598401264522" duration="66000" />
+      <workItem from="1598401337202" duration="49451000" />
+      <workItem from="1598600113789" duration="5082000" />
+      <workItem from="1598606867015" duration="2671000" />
+      <workItem from="1598615323248" duration="6000" />
+      <workItem from="1598615377782" duration="7255000" />
+      <workItem from="1598839181555" duration="55645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CreateGoodHtml_create - 2020.08.28 at 21h 05m 30s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateGoodHtml_create - 2020.08.28 at 21h 09m 54s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateGoodHtml_create - 2020.08.28 at 21h 10m 22s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateGoodHtml_create - 2020.08.28 at 21h 11m 37s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateGoodHtml_create - 2020.08.28 at 21h 16m 02s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateGoodHtml_create - 2020.08.28 at 21h 23m 45s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateGoodHtml_create - 2020.08.28 at 21h 28m 13s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateGoodHtml_create - 2020.08.28 at 21h 33m 46s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateGoodHtml_create - 2020.08.31 at 10h 58m 19s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CreateGoodHtml_create - 2020.09.01 at 10h 09m 42s.xml">
+      <configuration name="CreateGoodHtml.create" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="450902000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8136483" visible="true" weight="0.29758713" />
+      <window_info id="Structure" order="1" sideWeight="0.225058" side_tool="true" weight="0.38002682" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.1863517" side_tool="true" weight="0.26340482" />
+      <window_info id="Web" order="7" sideWeight="0.225058" side_tool="true" weight="0.38002682" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.16850829" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.437058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.16407356" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49932975" visible="true" weight="0.30551627" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.49585405" weight="0.14410187" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5041459" side_tool="true" weight="0.14410187" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8136483" visible="true" weight="0.54771787" />
+      <window_info id="Structure" order="1" sideWeight="0.225058" side_tool="true" weight="0.38002682" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.1863517" side_tool="true" weight="0.26340482" />
+      <window_info id="Web" order="7" sideWeight="0.225058" side_tool="true" weight="0.38002682" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.16850829" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.437058" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.16407356" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.49932975" visible="true" weight="0.5822604" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" sideWeight="0.49585405" weight="0.14410187" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5041459" side_tool="true" weight="0.14410187" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/service/OrderService.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/service/OrderService.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/b2c$TestClient.ic" NAME="TestClient Coverage Results" MODIFIED="1597024340544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/b2c$TestClient_testGoodsClient.ic" NAME="TestClient.testGoodsClient Coverage Results" MODIFIED="1597059190616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/b2c$JwtTokenTest_genRsaKey.ic" NAME="JwtTokenTest.genRsaKey Coverage Results" MODIFIED="1598498683646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.mr.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/b2c$TestClient_createGoodInteger.ic" NAME="TestClient.createGoodInteger Coverage Results" MODIFIED="1596790136518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/b2c$CreateGoodHtml_create.ic" NAME="CreateGoodHtml.create Coverage Results" MODIFIED="1598926153926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.mr.config.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/pojo/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/pojo/OrderDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-606">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-common/src/main/java/com/mr/common/utils/IdWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-common/src/main/resources/appliction.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/OrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="22" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="106" column="63" selection-start-line="106" selection-start-column="63" selection-end-line="106" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/springframework/spring-core/5.0.5.RELEASE/spring-core-5.0.5.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="301" selection-start-line="301" selection-end-line="301" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/springframework/spring-aop/5.0.5.RELEASE/spring-aop-5.0.5.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="699" selection-start-line="699" selection-end-line="699" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="794" selection-start-line="794" selection-end-line="794" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="934" selection-start-line="934" selection-end-line="934" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/FrameworkServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="852" selection-start-line="852" selection-end-line="852" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/org/apache/tomcat/embed/tomcat-embed-core/8.5.29/tomcat-embed-core-8.5.29-sources.jar!/org/apache/catalina/core/ApplicationFilterChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="99" column="5" lean-forward="true" selection-start-line="99" selection-start-column="5" selection-end-line="99" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/client/GoodClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/client/AddressClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/client/GoodsClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/config/IdWorkerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/config/IdWorkerProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/config/JwtConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-77">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/bo/CartBo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/bo/OrderBo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-cart/src/main/java/com/mr/config/JwtConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/java/com/mr/web/AuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/java/com/mr/client/UserClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/java/com/mr/config/JwtConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-305">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-servce/src/main/java/com/mr/service/AuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/main/java/com/mr/util/JwtConstans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/main/java/com/mr/util/JwtUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/main/java/com/mr/util/ObjectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/main/java/com/mr/util/RsaUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1330">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/main/java/com/mr/bo/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-auth/b2c-auth-common/src/test/java/com/mr/test/JwtTokenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="12" selection-start-line="12" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-common/src/main/java/com/mr/common/utils/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/pojo/OrderStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/web/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-371">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/bo/AddressBo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/service/OrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="69" column="14" lean-forward="true" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-api-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Page/repository2/com/alipay/sdk/alipay-sdk-java/4.10.0.ALL/alipay-sdk-java-4.10.0.ALL.jar!/com/alipay/api/AlipayClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/order/web/PayController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="89" column="7" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-api-gateway/src/main/java/com/mr/ApiGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2c-order/src/main/java/com/mr/config/ApliPayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>b2c-cart</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

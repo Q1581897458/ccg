@@ -12,5 +12,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public class ItemApplication {
     public static void main(String[] args) {
         SpringApplication.run(ItemApplication.class, args);
+
+        System.out.println("aaaa");
+
     }
 }
