@@ -14,13 +14,8 @@ public class ItemApplication {
         SpringApplication.run(ItemApplication.class, args);
 
 
-        System.out.println("嘻嘻嘻 ");
-        System.out.println("嘻嘻嘻 ");
-        System.out.println("嘻嘻嘻 ");
-        System.out.println("嘻嘻嘻 ");
-        System.out.println("嘻嘻嘻 ");
-        System.out.println("嘻嘻嘻 ");
-        System.out.println("嘻嘻嘻 ");
+
+
 
 
 
